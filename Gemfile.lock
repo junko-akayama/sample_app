@@ -345,7 +345,7 @@ GEM
     yard (0.9.37)
     yard-solargraph (0.1.0)
       yard (~> 0.9)
-    zeitwerk (2.7.2)
+    zeitwerk (2.6.18)
 
 PLATFORMS
   aarch64-linux
@@ -381,7 +381,7 @@ DEPENDENCIES
   webdrivers (= 5.2.0)
 
 RUBY VERSION
-   ruby 3.2.10p266
+   ruby 3.1.4p223
 
 BUNDLED WITH
    2.5.6
